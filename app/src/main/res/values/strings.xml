@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dagger2 From Scratch</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="model">Default</string>
+    <string name="hello">Hello</string>
+    <string name="goodbye">Goodbye</string>
+</resources>
